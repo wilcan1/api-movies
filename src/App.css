@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.imgcard {
+  height: 300px;
+  width: 400px;
+}
+.cardMedia {
+  width: 29.7rem;
+  height: auto;
+  padding: 10px 20px;
+}
+.load {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  font-size: 40px;
+  color: black;
+}

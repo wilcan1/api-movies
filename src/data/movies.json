@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "titleMedia": "Tolerance Zero",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/tolerance.jpg",
+        "typeMedia": 1
+    },
+
+    {
+        "id": 2,
+        "titleMedia": "Bienvenue chez les ch'tis",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/chtis.jpg",
+        "typeMedia": 1
+    },
+
+    {
+        "id": 3,
+        "titleMedia": "Scary Movie",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/movie.png",
+        "typeMedia": 1
+    },
+
+    {
+        "id": 4,
+        "titleMedia": "Taxi 5",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/taxi5.jpg",
+        "typeMedia": 1
+    },
+
+    {
+        "id": 5,
+        "titleMedia": "Sonic",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/sonic.jpg",
+        "typeMedia": 1
+    },
+
+    {
+        "id": 6,
+        "titleMedia": "Au Bout Du Tunnel",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/tunnel.jpg",
+        "typeMedia": 1
+    },
+    {
+        "id": 7,
+        "titleMedia": "Dredd",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/dredd.jpg",
+        "typeMedia": 2
+    },
+
+    {
+        "id": 8,
+        "titleMedia": "Game Of Thrones",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/gameof.jpg",
+        "typeMedia": 2
+    },
+
+    {
+        "id": 9,
+        "titleMedia": "Heroes",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/heroes.jpg",
+        "typeMedia": 2
+    },
+
+    {
+        "id": 10,
+        "titleMedia": "Peaky Blinder",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/peaky.jpg",
+        "typeMedia": 2
+    },
+
+    {
+        "id": 11,
+        "titleMedia": "Las Vegas",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/lasvegas.jpg",
+        "typeMedia": 2
+    },
+
+    {
+        "id": 12,
+        "titleMedia": "Dexter",
+        "imgMedia": "http://localhost/simplon/api-movies/src/img/dexter.jpg",
+        "typeMedia": 2
+    }
+]
